@@ -114,9 +114,11 @@ Applied to Total Sales, Profit, and Quantity based on 2017 vs. 2016 data.
 
 ---
 
-##  Dashboard Snapshot
+ #### 📊 Dashboard Preview
 
-![Dashboard Screenshot]https://github.com/MISYUSENI18/FURNITURE-SALES-PERFORMANCE/blob/main/furniture_data.jpg
+Here is a snapshot of the final Excel dashboard:
+
+![Furniture sales Dashboard Overview](https://github.com/MISYUSENI18/FURNITURE-SALES-PERFORMANCE/blob/main/furniture_data.jpg)
 
 ---
 
