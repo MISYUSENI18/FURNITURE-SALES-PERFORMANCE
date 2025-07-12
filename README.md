@@ -1,12 +1,12 @@
 # FURNITURE-SALES-PERFORMANCE
 # 🪑 Furniture Sales Performance Dashboard
 
-## 📌 Introduction
+##  Introduction
 An Excel-based dashboard analyzing furniture sales across the United States. It highlights key business insights around revenue, profit, shipping efficiency, and product performance to support strategic decision-making.
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 Furniture retailers often struggle to understand where their sales are coming from, which products are performing best, and how shipping impacts customer experience. Without a clear view of these trends, it’s difficult to make data-driven decisions that improve sales and operational efficiency. This project solves that by transforming raw sales data into an interactive dashboard that reveals performance insights by product category, region, customer segment, and shipping mode.
 
 ---
@@ -122,11 +122,11 @@ Here is a snapshot of the final Excel dashboard:
 
 ---
 
-## 📁 Files
+#### 📥 Download the Dashboard
 
-- 📊 [Download Excel Dashboard](#)
-- 📷 [Dashboard Image](furniture_data.jpg)
+You can download and explore the Excel file used for this analysis here:
 
+🔗 [Click to download Café Sales Dashboard Excel file](https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/raw/main/clean_cafe_sale.xlsx)
 ---
 
 ## 🙏 Acknowledgements
