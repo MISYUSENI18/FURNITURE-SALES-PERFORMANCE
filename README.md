@@ -126,16 +126,4 @@ Here is a snapshot of the final Excel dashboard:
 
 You can download and explore the Excel file used for this analysis here:
 
-🔗 [Click to download Café Sales Dashboard Excel file](https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/raw/main/clean_cafe_sale.xlsx)
----
-
-## 🙏 Acknowledgements
-
-Thanks to [Freedom Oboh](https://www.linkedin.com/in/freedom-oboh/) for inspiring this project through your content and structure.
-
----
-
-## 📌 Author
-
-**Yusroh Misbahudeen**  
-[LinkedIn](https://www.linkedin.com/in/your-link/) · [Portfolio](https://www.datascienceportfol.io/yusrohmisbahudeen15)
+🔗 [Click to download Furniture sales Dashboard Excel file](https://github.com/MISYUSENI18/FURNITURE-SALES-PERFORMANCE/blob/main/Furniture_data.xlsx)
